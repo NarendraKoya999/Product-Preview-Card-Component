@@ -1,4 +1,5 @@
 # Product Preview Card Component
+![Design Preview for Product Preview Card Component](./design/desktop-preview.jpg).
 
 This repository contains the code for a simple product preview card component, designed to display information about a perfume product.
 
